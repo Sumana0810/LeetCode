@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumana0810/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumana0810/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Sumana0810/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sumana0810/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -52,5 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumana0810/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumana0810/LeetCode/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sumana0810/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
